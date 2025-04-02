@@ -1,0 +1,18 @@
+Requisitos Gerais
+
+RF - Cadastro de: Usuários, Instituição e Paciente;
+RF - Funcionalidades específicas para usuário e instituição;
+RF - Tela de Login;
+RF - Calendário com sistema de lembrete;
+RF - Cadastro de Remédio utilizando: Nome, gramagem, posologia (forma de tomar), observações específicas (método ingestão), precisa de receita ou não, medicamento de uso contínuo, quantidade (que vem na caixa).
+RNF - Softwares: VSCode, GitHub e PgAdmin;
+Linguagens de Programação: HTML, CSS e Typescript;
+RNF - Plataforma: Android e Windows;
+RNF - Versão: Windows 10 - no mínimo Android 12
+RN - Página / Aplicativo (os dois ou apenas uma das ideias);
+RN - Caso Aplicativo: usar o SDK do Android ou Windows;
+Banco de Dados para aramazenar: Usuários (usuários normais, instituições e, como funcionalidade da conta PJ, cadastro de pacientes/clientes), opção para armazenamento de remédios já cadastrados pelo usuário (específico de cada login).
+RF - Login: Padrão - Email, Contato, Senha e CPF, Instituição - CNPJ, Telefone (contato), Email Titular da Empresa e Senha.
+RNF - A efetivação do cadastro de uma instituição só pode ser realizada junto do cadastro de pelo menos um pacientes/cliente.
+
+
